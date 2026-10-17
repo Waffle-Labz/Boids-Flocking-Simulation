@@ -1,5 +1,7 @@
 # Boids Flocking Simulation
 
+<img width="969" height="969" alt="image" src="https://github.com/user-attachments/assets/8823fdf1-6cf3-406a-82d5-077d1cc111a1" />
+
 A 2D flocking simulation built with Python and Pygame, demonstrating how complex group behaviour can emerge from a small set of simple rules.
 
 Boids move independently while responding to nearby boids and obstacles, producing flocking patterns without a central controller.
