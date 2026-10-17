@@ -19,29 +19,6 @@ Boids move independently while responding to nearby boids and obstacles, produci
 - Python 3
 - Pygame
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/boids-flocking-simulation.git
-   cd boids-flocking-simulation
-   ```
-
-2. Install the dependency:
-
-   ```bash
-   python -m pip install pygame
-   ```
-
-3. Run the simulation using the main Python script:
-
-   ```bash
-   python main.py
-   ```
-
-   Replace `main.py` with the actual filename if your entry point has a different name.
-
 ## How It Works
 
 Each boid maintains its own position, velocity, and acceleration. During each update, it responds to three flocking rules:
